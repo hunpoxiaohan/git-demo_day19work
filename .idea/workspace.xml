@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e9d093d-657f-4de3-aaf0-fbc1e0a48776" name="Default Changelist" comment="" />
+    <list default="true" id="5e9d093d-657f-4de3-aaf0-fbc1e0a48776" name="Default Changelist" comment="添加elementui的练习作业">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/elementUI综合案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +18,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IntelliJConfiguration">
     <option name="PROPERTY_FILES">
@@ -72,8 +84,17 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects_JavaWeb\day19\web" />
+      <recent name="F:\projects_JavaWeb\day19\web\js" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -139,13 +160,22 @@
       <option name="presentableId" value="Default" />
       <updated>1653903431320</updated>
       <workItem from="1653903435268" duration="214000" />
+      <workItem from="1653903796460" duration="1623000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加elementui的练习作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加elementui的练习作业" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="448" y="156" key="CommitChangelistDialog2" timestamp="1653909737195">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="448" y="156" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1653909737195" />
     <state width="1600" height="295" key="GridCell.Tab.0.bottom" timestamp="1653903650703">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -162,5 +192,13 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1600" height="295" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1653903650702" />
+    <state x="507" y="476" key="com.intellij.ide.util.TipDialog" timestamp="1653903795596">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="507" y="476" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1653903795596" />
+    <state x="641" y="564" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1653909699887">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="641" y="564" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" timestamp="1653909699887" />
   </component>
 </project>
