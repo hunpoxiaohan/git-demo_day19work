@@ -172,10 +172,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加elementui的练习作业" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="448" y="156" key="CommitChangelistDialog2" timestamp="1653909737195">
+    <state x="448" y="156" key="CommitChangelistDialog2" timestamp="1653909792372">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="448" y="156" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1653909737195" />
+    <state x="448" y="156" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1653909792372" />
     <state width="1600" height="295" key="GridCell.Tab.0.bottom" timestamp="1653903650703">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -192,6 +192,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1600" height="295" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1653903650702" />
+    <state x="680" y="521" key="VCS.EditChangelistDialog" timestamp="1653909807949">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="680" y="521" key="VCS.EditChangelistDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1653909807949" />
     <state x="507" y="476" key="com.intellij.ide.util.TipDialog" timestamp="1653903795596">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
